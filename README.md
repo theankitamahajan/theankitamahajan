@@ -1,72 +1,78 @@
-<h1 align="center">Hi there, I'm Ankita Mahajan 👋</h1>
+# Hi there, I'm Ankita Mahajan 👋
 
-<p align="center">
-  <strong>Java Developer | AI Automation & LLM Integration | Microservices | Cloud (AWS & Azure)</strong>
-</p>
+### 🚀 Java Developer | AI Automation & LLM Integration | Microservices | Cloud (AWS & Azure)
 
-<p align="center">
-  <a href="https://linkedin.com/in/ankitamahajan19"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"></a>
-  <a href="mailto:ankitamahajan2026@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Contact Email"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theankitamahajan&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ankitamahajan19)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:ankitamahajan2026@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=theankitamahajan&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/theankitamahajan)
 
 ---
 
-### 👨‍💻 About Me
-[cite_start]Motivated Java Developer with 3+ years of enterprise backend experience and hands-on AI integration expertise[cite: 6]. [cite_start]Based in **Toronto, ON**, I specialize in building high-throughput REST APIs and LLM-powered automation using Java/Spring Boot and Gemini AI[cite: 5, 7, 8].
+### 👩‍💻 About Me
 
-* [cite_start]🚀 **Currently working on:** AI agent-style platforms and intelligent business process automation[cite: 43, 44].
-* [cite_start]🏢 **Professional Impact:** Delivered enterprise HR and payroll systems at ADP Lifion supporting high-volume daily workflows[cite: 8, 26].
-* [cite_start]🎓 **Academic Excellence:** Post-Graduate in Cloud Computing (Seneca College) and Project Management (Georgian College)[cite: 48, 49].
+Motivated Java Developer with **3+ years** of enterprise backend experience and hands-on AI integration expertise. Based in **Toronto, ON**, I specialize in building high-throughput REST APIs and LLM-powered automation using Java/Spring Boot and Gemini AI.
+
+- 🚀 **Currently working on:** AI agent-style platforms and intelligent business process automation
+- 🏢 **Professional Impact:** Delivered enterprise HR and payroll systems at **ADP Lifion** supporting high-volume daily workflows
+- 🎓 **Education:** Post-Graduate in Cloud Computing (Seneca College) & Project Management (Georgian College)
+- 🌱 **Learning:** Advanced LLM orchestration patterns and agentic AI workflows
 
 ---
 
-### 🛠 Technical Skills
+### 🛠️ Technical Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,azure,docker,kubernetes,postgres,mysql,kafka,terraform,git,github)](https://skillicons.dev)
 
-* [cite_start]**Backend:** Java (Core, Collections, Multithreading), Spring Cloud, Hibernate/JPA[cite: 51, 52].
-* [cite_start]**AI & Automation:** Gemini AI API, AI agent design, intelligent workflow automation, Zapier[cite: 54].
-* [cite_start]**Cloud & DevOps:** AWS (ECS), Azure (AKS), CI/CD (Jenkins, GitHub Actions), Kubernetes[cite: 28, 55].
-* [cite_start]**Databases:** PostgreSQL, MySQL, Oracle query optimization, Cassandra[cite: 27, 55].
+| Category | Skills |
+|---|---|
+| **Backend** | Java (Core, Collections, Multithreading), Spring Boot, Spring Cloud, Hibernate/JPA |
+| **AI & Automation** | Gemini AI API, AI Agent Design, Intelligent Workflow Automation, Zapier |
+| **Cloud & DevOps** | AWS (ECS), Azure (AKS), CI/CD (Jenkins, GitHub Actions), Kubernetes, Terraform |
+| **Databases** | PostgreSQL, MySQL, Oracle, Cassandra |
 
 ---
 
 ### 📂 Featured Projects
 
 | Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Government of Ontario Capstone** | [cite_start]Automated end-to-end business workflows and feedback pipelines mirroring AI agent patterns[cite: 33]. | [cite_start]Spring Boot, Terraform, Zapier, GitHub Actions [cite: 28, 31] |
-| **AI SaaS Platform** | [cite_start]Architected an AI agent platform for real-time intelligent content generation and automation[cite: 43]. | [cite_start]Java, Gemini AI API, JWT, Docker [cite: 41] |
-| **Distributed Pipeline** | [cite_start]Real-time data streaming and distributed processing pipeline using high-availability clusters[cite: 55]. | [cite_start]Kafka, Cassandra, Docker Compose [cite: 55] |
+|---|---|---|
+| **AI SaaS Platform** | Architected an AI agent platform for real-time intelligent content generation and automation | Java, Gemini AI API, JWT, Docker |
+| **Government of Ontario Capstone** | Automated end-to-end business workflows and feedback pipelines mirroring AI agent patterns | Spring Boot, Terraform, Zapier, GitHub Actions |
+| **Distributed Data Pipeline** | Real-time data streaming and distributed processing with high-availability clusters | Kafka, Cassandra, Docker Compose |
 
 ---
 
-### 💼 Career Highlight: Government of Ontario
-**Cloud Backend Developer (Industry Capstone)** | [cite_start]*Jan 2025 — Apr 2025* [cite: 30, 32]
+### 💼 Experience Highlight: Government of Ontario
 
-* [cite_start]**Workflow Automation:** Engineered end-to-end business workflows using Zapier, integrating booking and notification systems[cite: 33].
-* [cite_start]**AI-Pattern Integration:** Designed automation pipelines that mirrored AI agent design patterns for operational insights[cite: 33, 34].
-* [cite_start]**Event-Driven Design:** Developed communication flows for structured data collection and operational reporting[cite: 34].
-* [cite_start]**Infrastructure Management:** Managed containerized deployments and automated technical documentation to streamline release cycles[cite: 28, 29].
+**Cloud Backend Developer (Industry Capstone)** | *Jan 2025 – Apr 2025*
+
+- **Workflow Automation:** Engineered end-to-end business workflows using Zapier, integrating booking and notification systems
+- **AI-Pattern Integration:** Designed automation pipelines that mirrored AI agent design patterns for operational insights
+- **Event-Driven Design:** Developed communication flows for structured data collection and operational reporting
+- **Infrastructure:** Managed containerized deployments and automated technical documentation to streamline release cycles
 
 ---
 
-### 📊 My Technical Impact
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theankitamahajan&show_icons=true&theme=radical&count_private=true" alt="Ankita's GitHub Stats" />
+### 📜 Certifications
+
+[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+[![Google](https://img.shields.io/badge/Google-Cloud_Digital_Leader-4285F4?style=flat&logo=google&logoColor=white)](https://cloud.google.com)
+
+- ☁️ AWS Cloud Practitioner Essentials
+- 🔷 Microsoft Azure Fundamentals
+- 🎓 Post-Graduate Certificate – Cloud Computing, Seneca College
+- 📋 Post-Graduate Certificate – Project Management, Georgian College
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=theankitamahajan&show_icons=true&theme=radical&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theankitamahajan&theme=radical" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theankitamahajan&theme=radical" alt="Ankita's Contribution Streak" />
-</p>
+---
+
+*Let's connect and build intelligent, scalable solutions together!*
