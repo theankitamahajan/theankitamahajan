@@ -1,34 +1,38 @@
 # Hi there, I'm Ankita Mahajan 👋
 
-### 🚀 Java Developer | AI Automation & LLM Integration | Microservices | Cloud (AWS & Azure)
+### 🚀 Java Backend Engineer | Cloud & AI Integration | Microservices | AWS · Azure
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ankitamahajan19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel)](https://v0-portfolio-page-code-cyan.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:ankitamahajan2026@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=theankitamahajan&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/theankitamahajan)
+[![Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader)](https://v0-portfolio-page-code-cyan.vercel.app/AnkitaMahajan-Resume.pdf)
+[![Profile Views](https://komarev.com/ghpvc/?username=theankitamahajan&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/theankitamahajan)
 
 ---
 
 ### 👩‍💻 About Me
 
-Motivated Java Developer with **3+ years** of enterprise backend experience and hands-on AI integration expertise. Based in **Toronto, ON**, I specialize in building high-throughput REST APIs and LLM-powered automation using Java/Spring Boot and Gemini AI.
+Java Backend Engineer with **3+ years** of enterprise experience building cloud-native systems that scale. Based in **Toronto, ON** — open to hybrid and remote roles. I specialize in high-throughput REST APIs, microservices architecture, and LLM-powered automation using Java/Spring Boot and Gemini AI.
 
-- 🚀 **Currently working on:** AI agent-style platforms and intelligent business process automation
-- 🏢 **Professional Impact:** Delivered enterprise HR and payroll systems at **ADP Lifion** supporting high-volume daily workflows
-- 🎓 **Education:** Post-Graduate in Cloud Computing (Seneca College) & Project Management (Georgian College)
-- 🌱 **Learning:** Advanced LLM orchestration patterns and agentic AI workflows
+- 🚀 **Currently:** Building AI agent platforms and intelligent business process automation
+- 🏢 **ADP Lifion:** Delivered enterprise HR & payroll REST APIs supporting high-volume daily workflows
+- 🏛️ **Government of Ontario:** Reduced release cycles by **50%** and database load by **40%** via Terraform & GitHub Actions
+- 🎓 **Seneca College:** Post-Graduate Certificate in Cloud Computing (2025)
+- 🌱 **Exploring:** Advanced LLM orchestration, agentic AI workflows, and MLOps pipelines
 
 ---
 
 ### 🛠️ Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,azure,docker,kubernetes,postgres,mysql,kafka,terraform,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,azure,docker,kubernetes,postgres,kafka,terraform,python,flask,react,git,github)](https://skillicons.dev)
 
-| Category | Skills |
+| Category | Technologies |
 |---|---|
-| **Backend** | Java (Core, Collections, Multithreading), Spring Boot, Spring Cloud, Hibernate/JPA |
-| **AI & Automation** | Gemini AI API, AI Agent Design, Intelligent Workflow Automation, Zapier |
-| **Cloud & DevOps** | AWS (ECS), Azure (AKS), CI/CD (Jenkins, GitHub Actions), Kubernetes, Terraform |
-| **Databases** | PostgreSQL, MySQL, Oracle, Cassandra |
+| **Backend** | Java (Core, Multithreading), Spring Boot 3, Spring Security, Hibernate/JPA |
+| **Cloud & DevOps** | AWS (Lambda, ECS, CloudWatch), Azure (AKS), Docker, Kubernetes, Terraform, GitHub Actions |
+| **AI & Automation** | Gemini AI API, LLM-powered Automation, AI Agent Design, MLOps (DVC) |
+| **Databases** | PostgreSQL, DynamoDB, MySQL, Oracle, Cassandra |
+| **Other** | Kafka, JWT, REST APIs, Microservices, CI/CD, Flask, React |
 
 ---
 
@@ -36,33 +40,39 @@ Motivated Java Developer with **3+ years** of enterprise backend experience and 
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **AI SaaS Platform** | Architected an AI agent platform for real-time intelligent content generation and automation | Java, Gemini AI API, JWT, Docker |
-| **Government of Ontario Capstone** | Automated end-to-end business workflows and feedback pipelines mirroring AI agent patterns | Spring Boot, Terraform, Zapier, GitHub Actions |
-| **Distributed Data Pipeline** | Real-time data streaming and distributed processing with high-availability clusters | Kafka, Cassandra, Docker Compose |
+| 🤖 **[AI-Powered Content Platform](https://github.com/theankitamahajan)** | Full-stack platform with Gemini LLM for intelligent content generation, JWT auth & Docker deployment | Java, Spring Boot, React, Gemini AI, Docker, PostgreSQL |
+| ☁️ **[Serverless Cafe](https://github.com/theankitamahajan)** | Serverless ordering app with React frontend, AWS Lambda, DynamoDB & Cognito auth | React, AWS Lambda, DynamoDB, Cognito, API Gateway |
+| 📊 **[YouTube Sentiment Analysis](https://github.com/theankitamahajan)** | End-to-end MLOps pipeline for comment sentiment analysis with CI/CD and model monitoring | Python, Flask, DVC, AWS, ML |
 
 ---
 
-### 💼 Experience Highlight: Government of Ontario
+### 💼 Experience
 
-**Cloud Backend Developer (Industry Capstone)** | *Jan 2025 – Apr 2025*
+**☁️ Cloud Backend Developer — Government of Ontario** *(Jan 2025 – Apr 2025)*
+- ⬇️ Reduced release cycles by **50%** via Terraform & GitHub Actions CI/CD automation
+- ⚡ Cut database load by **40%** through PostgreSQL query optimization
 
-- **Workflow Automation:** Engineered end-to-end business workflows using Zapier, integrating booking and notification systems
-- **AI-Pattern Integration:** Designed automation pipelines that mirrored AI agent design patterns for operational insights
-- **Event-Driven Design:** Developed communication flows for structured data collection and operational reporting
-- **Infrastructure:** Managed containerized deployments and automated technical documentation to streamline release cycles
+**☕ Java Backend Engineer — ADP Lifion** *(May 2022 – Aug 2023)*
+- 🔧 Built **10+ REST APIs** powering enterprise HR & payroll workflows
+- 🚀 Reduced batch processing runtime by **35%** via SQL optimization
+
+**🏗️ Software Engineer — Synergy Machines LLC** *(Sep 2020 – May 2022)*
+- 🛠️ Designed microservices for a CRM platform serving **200+ clients**
+- 🔄 Refactored legacy modules, reducing code complexity by **40%**
 
 ---
 
 ### 📜 Certifications
 
-[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
-[![Google](https://img.shields.io/badge/Google-Cloud_Digital_Leader-4285F4?style=flat&logo=google&logoColor=white)](https://cloud.google.com)
+![AWS](https://img.shields.io/badge/AWS-Solutions_Architecture-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Professional_Certificate-181717?style=flat-square&logo=github&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-Project_Management_Essentials-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-DevOps_Monitoring_%26_Observability-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
-- ☁️ AWS Cloud Practitioner Essentials
-- 🔷 Microsoft Azure Fundamentals
-- 🎓 Post-Graduate Certificate – Cloud Computing, Seneca College
-- 📋 Post-Graduate Certificate – Project Management, Georgian College
+- ☁️ **AWS Solutions Architecture Virtual Experience** — Forage x AWS
+- 🐙 **GitHub Professional Certificate** — GitHub
+- 📋 **Project Management Essentials** — Microsoft
+- 🔍 **DevOps: Monitoring & Observability** — LinkedIn Learning
 
 ---
 
@@ -72,6 +82,20 @@ Motivated Java Developer with **3+ years** of enterprise backend experience and 
   <img src="https://github-readme-stats.vercel.app/api?username=theankitamahajan&show_icons=true&theme=radical&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theankitamahajan&theme=radical" height="165" />
 </p>
+
+### 🗣️ Top Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theankitamahajan&layout=compact&theme=radical&langs_count=8" />
+</p>
+
+---
+
+### 🎯 What I'm Looking For
+
+> 💼 Open to **Java Backend Engineer**, **Cloud/Platform Engineer**, or **AI/ML Engineer** roles
+> 📍 Toronto, ON — Hybrid preferred · Open to Remote · Open to Relocation
+> ⚡ Available to start immediately
 
 ---
 
