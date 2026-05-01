@@ -12,7 +12,7 @@
 
 ### 👩‍💻 About Me
 
-Java Backend Engineer with **3+ years** of enterprise experience building cloud-native systems that scale. Based in **Toronto, ON** — open to hybrid and remote roles. I specialize in high-throughput REST APIs, microservices architecture, and LLM-powered automation using Java/Spring Boot and Gemini AI.
+Java Backend Engineer with ** 5 years** of enterprise experience building cloud-native systems that scale. Based in **Toronto, ON** — open to hybrid and remote roles. I specialize in high-throughput REST APIs, microservices architecture, and LLM-powered automation using Java/Spring Boot and Gemini AI.
 
 - 🚀 **Currently:** Building AI agent platforms and intelligent business process automation
 - 🏢 **ADP Lifion:** Delivered enterprise HR & payroll REST APIs supporting high-volume daily workflows
