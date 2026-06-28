@@ -9,7 +9,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=theankitamahajan&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/theankitamahajan)
 
 ---
-
+  
 ### 👩‍💻 About Me
 
 Java Backend Engineer with  5 years of enterprise experience building cloud-native systems that scale. Based in **Toronto, ON** — open to hybrid and remote roles. I specialize in high-throughput REST APIs, microservices architecture, and LLM-powered automation using Java/Spring Boot and Gemini AI.
