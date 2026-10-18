@@ -100,14 +100,6 @@ I also bring 5 years of enterprise backend experience (Java, Spring Boot, AWS, A
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theankitamahajan&layout=compact&theme=radical&langs_count=8" />
 </p>
 
----
 
-### What I'm Looking For
-
-> **Salesforce Administrator** or **CRM Administrator** roles  
-> 📍 Toronto, ON — Hybrid preferred · Open to Remote  
-> ⚡ Available to start immediately
-
----
 
 *Let's connect and build clean, reliable Salesforce solutions together.*
