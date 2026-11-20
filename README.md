@@ -1,105 +1,143 @@
-# Hi there, I'm Ankita Mahajan 👋
+Hi, I'm Ankita Mahajan 👋
+Cloud & DevOps Engineer | AWS | Microsoft Azure | Terraform | Docker | Kubernetes
+I build cloud-ready applications, automate infrastructure, and develop
+reliable backend systems.
 
-### Salesforce Administrator | Sales Cloud & Service Cloud | CRM Automation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ankitamahajan19)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel)](https://v0-portfolio-page-code-cyan.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:ankitamahajan2026@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader)](https://v0-portfolio-page-code-cyan.vercel.app/AnkitaMahajan-Resume.pdf)
 
----
+About Me
+I'm a Cloud & Backend Engineer with a background in enterprise software
+development, backend engineering, and cloud technologies.
 
-### About Me
+My experience spans Java, Spring Boot, REST APIs, database engineering,
+and cloud-oriented application development.
 
-I build Salesforce solutions that help sales and support teams work faster and with more visibility. My focus is practical Admin work: lead management, SLA enforcement, security models, Flow automation, and clear reporting.
+I focus on building maintainable systems and improving how applications
+are developed, deployed, and operated.
 
-I design complete CRM configurations that solve real problems — slow lead response, missing prioritization, weak data security, and lack of manager visibility. Every project is fully documented so it can be understood and handed over cleanly.
+Areas of interest - Cloud infrastructure and architecture --- AWS
+and Azure - Infrastructure as Code --- Terraform - CI/CD pipelines and
+deployment automation - Containerization and orchestration --- Docker
+and Kubernetes - Backend engineering --- Java and Spring Boot - Cloud
+monitoring, troubleshooting, and reliability - Application integration
+and distributed systems
 
-I also bring 5 years of enterprise backend experience (Java, Spring Boot, AWS, Azure), which helps me design cleaner, more reliable Salesforce solutions.
+Currently building: Practical cloud infrastructure, automation
+workflows, and cloud-native application projects.
+Technical Stack
+Cloud Platforms
 
-**Targeting:** Salesforce Administrator | CRM Administrator | Salesforce Platform roles
 
----
+Infrastructure & DevOps
 
-### Current Focus
 
-| Area | What I Work On |
-| --- | --- |
-| **Sales Cloud** | Lead Capture, Lead Scoring, High-Value Lead Flagging, Web-to-Lead, Opportunity Pipeline |
-| **Service Cloud** | Case Routing, SLA Tracking, Escalation, Support Console Design |
-| **Automation** | Record-Triggered Flows, Task Creation, Email Alerts, SLA Status Updates |
-| **Security** | Role Hierarchy, Profiles, Permission Sets, Organization-Wide Defaults, Sharing Rules |
-| **Reporting** | Dashboards, SLA Compliance Reports, Conversion Reports, List Views |
-| **Delivery** | Requirements, Data Modeling, Validation Rules, Testing, Documentation |
 
----
 
-### Featured Projects
 
-| Project | Description | Impact |
-| --- | --- | --- |
-| ⚡ **[LeadFlow CRM](https://github.com/theankitamahajan/LeadFlow-CRM)** | Complete Lead-to-Opportunity system with scoring, SLA tracking, security model & dashboards | Automated prioritization + 4-hour SLA enforcement for high-value leads |
-| 🛠️ **[Service Case Automation & Support Console](https://github.com/theankitamahajan/service-case-automation-support-console)** | Service Cloud support console with case routing, escalation, SLA awareness & Platform Events | Designed to reduce manual case handling steps |
-| 🤖 **AI-Powered Content Platform** | Full-stack platform with Gemini LLM, JWT auth & Docker | Java, Spring Boot, React, Gemini AI |
-| ☁️ **Serverless Cafe** | Serverless ordering app with React + AWS Lambda | React, AWS Lambda, DynamoDB, Cognito |
+Backend Engineering
 
----
 
-### Salesforce Skills
 
-`Salesforce Administrator` `Sales Cloud` `Service Cloud` `Flow Builder` `Record-Triggered Flows` `Validation Rules` `Custom Fields` `Web-to-Lead` `Role Hierarchy` `Profiles` `Permission Sets` `Sharing Rules` `Reports & Dashboards` `List Views` `SLA Management` `Lead Scoring` `Case Management` `Page Layouts` `Data Modeling`
 
----
+Databases & Messaging
 
-### Technical Background
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,azure,docker,kubernetes,postgres,git,github)](https://skillicons.dev)
 
-| Category | Technologies |
-| --- | --- |
-| **Backend** | Java, Spring Boot 3, REST APIs, Microservices |
-| **Cloud & DevOps** | AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions |
-| **Databases** | PostgreSQL, DynamoDB, MySQL |
 
----
+Featured Engineering Projects
+1. AI-Powered Content & Interview Platform
+View
+Repository
 
-### Experience
+Java | Spring Boot | React | Gemini AI | Docker
+- Full-stack application with AI integration.
+- REST API development and backend architecture.
+- JWT authentication and role-based access control.
+- Containerized application environment.
+- GitHub Actions included in the project technology stack.
+2. Real-Time Messaging with Apache Kafka
+View
+Repository
 
-**Cloud Backend Developer — Government of Ontario** *(Jan 2025 – Apr 2025)*  
-- Reduced release cycles by **50%** via Terraform & GitHub Actions  
-- Cut database load by **40%** through PostgreSQL optimization  
+Java | Spring Boot | Apache Kafka | Spring Kafka
+- Asynchronous messaging architecture.
+- Kafka producer and consumer implementation.
+- REST-based message publishing.
+- Topic and partition configuration.
+- Docker-based local Kafka environment.
+3. Service Case Automation & Support Console
+View
+Repository
 
-**Java Backend Engineer — ADP Lifion** *(May 2022 – Aug 2023)*  
-- Built **10+ REST APIs** for enterprise HR & payroll systems  
-- Reduced batch processing runtime by **35%**  
+React | TypeScript | Apex | Salesforce DX | GitHub Actions
+- Support case management and automation.
+- Backend integration and event-driven workflow examples.
+- Apex controller and test classes.
+- Automated build and deployment workflow.
+4. LeadFlow CRM
+View Repository
 
-**Software Engineer — Synergy Machines LLC** *(Sep 2020 – May 2022)*  
-- Designed microservices for a CRM platform serving **200+ clients**  
+Salesforce | Flow Builder | Data Modeling | Security
+- Lead-to-opportunity workflow.
+- Lead scoring and SLA automation.
+- Security model and reporting.
+- Business process automation.
+Professional Engineering Background
+Cloud Backend Development --- Government of Ontario
+January 2025 -- April 2025
 
----
+Cloud-oriented application development, infrastructure automation,
+deployment workflows, and database optimization.
+Java Backend Engineering --- ADP Lifion
+May 2022 -- August 2023
 
-### Certifications
+Enterprise HR and payroll applications, REST APIs, Java, Spring Boot,
+and backend system development.
+Software Engineering --- Synergy Machines LLC
+September 2020 -- May 2022
 
-- AWS Solutions Architecture Virtual Experience — Forage x AWS  
-- GitHub Professional Certificate  
-- Project Management Essentials — Microsoft  
-- DevOps: Monitoring & Observability — LinkedIn Learning  
+Backend application development, microservices, CRM integrations, and
+database operations.
+Certifications & Professional Development
+- AWS Solutions Architecture Virtual Experience --- Forage
+- GitHub Professional Certificate
+- Microsoft Project Management Essentials
+- DevOps: Monitoring & Observability --- LinkedIn Learning
+Current Learning & Engineering Roadmap
+  Focus                               Engineering Topics
+  AWS                                 VPC, EC2, IAM, S3, RDS, Lambda
 
----
+  Azure                               Virtual Networks, Azure Compute,
+Storage, Azure Monitor
 
-### GitHub Stats
+  Infrastructure as Code              Terraform modules, state
+management, remote backends
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=theankitamahajan&show_icons=true&theme=radical&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theankitamahajan&theme=radical" height="165" />
+  CI/CD                               GitHub Actions, automated testing,
+deployment workflows
+
+  Containers                          Docker, Kubernetes, container
+orchestration
+
+  Reliability                         Monitoring, logging, alerting,
+troubleshooting
+Security                            IAM, least privilege, secrets
+management
+GitHub Statistics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=theankitamahajan&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="Ankita's GitHub statistics" />{=html}
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theankitamahajan&theme=github-dark-blue&hide_border=true" height="165" alt="Ankita's GitHub contribution streak" />{=html}
 </p>
-
-### Top Languages
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theankitamahajan&layout=compact&theme=radical&langs_count=8" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theankitamahajan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Ankita's most used programming languages" />{=html}
 </p>
+Let's Connect
+I'm interested in Cloud Engineering, DevOps, Cloud Infrastructure, and
+Backend Engineering opportunities.
 
+Always learning. Always building. Focused on engineering reliable
+systems.
 
-
-*Let's connect and build clean, reliable Salesforce solutions together.*
+LinkedIn ·
+Portfolio ·
+GitHub
